@@ -3,7 +3,6 @@ package com.D121201107.task
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
-import com.D121201107.R
 
 
 class MainActivity : AppCompatActivity() {

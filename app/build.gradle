@@ -4,11 +4,11 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
 android {
-    namespace 'com.D121201107'
+    namespace 'com.D121201107.task'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.D121201107"
+        applicationId "com.D121201107.task"
         minSdk 26
         targetSdk 33
         versionCode 1

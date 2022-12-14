@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.D121201107.task.data.Task
 import com.D121201107.task.data.TaskViewModel
-import com.D121201107.R
+import com.D121201107.task.R
 import kotlinx.android.synthetic.main.fragment_add.*
 import kotlinx.android.synthetic.main.fragment_add.view.*
 
